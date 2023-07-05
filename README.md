@@ -1,3 +1,5 @@
+이 프로젝트는 beomi님의 [WebUI for ChatKoAlpaca](https://github.com/Beomi/KoAlpaca/tree/main/webui)에 기반하였습니다.
+
 # WebUI for ChatKoAlpaca
 
 ## 실행 방법
